@@ -1,0 +1,47 @@
+{
+  "serie_title": "Python programlama diline giriş",
+  "language": "tr",
+  "subject": "python",
+  "cards": [
+    {
+      "title": "Kurulum",
+      "filename": "01",
+      "card_number": 1
+    },
+    {
+      "title": "İlk Python programı",
+      "filename": "02",
+      "card_number": 2
+    },
+    {
+      "title": "Kullanıcı ile konuşmak",
+      "filename": "03",
+      "card_number": 3
+    },
+    {
+      "title": "Karşılaştırma ve if kontrolleri",
+      "filename": "04",
+      "card_number": 4
+    },
+    {
+      "title": "Farklı if kontrolleri",
+      "filename": "05",
+      "card_number": 5
+    },
+    {
+      "title": "Döngüler",
+      "filename": "06",
+      "card_number": 6
+    },
+    {
+      "title": "Hadi bir oyun yapalım!",
+      "filename": "07",
+      "card_number": 7
+    }
+  ],
+  "description": "Daha önce programlama yapmamış Ninjalar için Python programlama diline bir giriş.",
+  "difficulty": 1,
+  "author": "CoderDojo Foundation",
+  "website": "https://coderdojo.com",
+  "twitter": "CoderDojo"
+}

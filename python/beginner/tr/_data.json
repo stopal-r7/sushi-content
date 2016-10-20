@@ -1,0 +1,65 @@
+{
+  "01": {
+    "title": "Kurulum",
+    "filename": "01",
+    "language": "python",
+    "subject": "python",
+    "card_number": 1,
+    "series_total_cards": 7,
+    "series_title": "Python programlama diline giriş"
+  },
+  "02": {
+    "title": "İlk Python programı",
+    "filename": "02",
+    "language": "python",
+    "subject": "python",
+    "card_number": 2,
+    "series_total_cards": 7,
+    "series_title": "Python programlama diline giriş"
+  },
+  "03": {
+    "title": "Kullanıcı ile konuşmak",
+    "filename": "03",
+    "language": "python",
+    "subject": "python",
+    "card_number": 3,
+    "series_total_cards": 7,
+    "series_title": "Python programlama diline giriş"
+  },
+  "04": {
+    "title": "Karşılaştırma ve if kontrolleri",
+    "filename": "04",
+    "language": "python",
+    "subject": "python",
+    "card_number": 4,
+    "series_total_cards": 7,
+    "series_title": "Python programlama diline giriş"
+  },
+  "05": {
+    "title": "Farklı if kontrolleri",
+    "filename": "05",
+    "language": "python",
+    "subject": "python",
+    "card_number": 5,
+    "series_total_cards": 7,
+    "series_title": "Python programlama diline giriş"
+  },
+  "06": {
+    "title": "Döngüler",
+    "filename": "06",
+    "language": "python",
+    "subject": "python",
+    "card_number": 6,
+    "series_total_cards": 7,
+    "series_title": "Python programlama diline giriş"
+  },
+  "07": {
+    "title": "Hadi bir oyun yapalım!",
+    "filename": "07",
+    "language": "python",
+    "subject": "python",
+    "card_number": 7,
+    "series_total_cards": 7,
+    "series_title": "Python programlama diline giriş"
+  }
+}

@@ -25,7 +25,7 @@
     print("Your number is "+str(my_number))
 
     if(my_number > 100):
-    print("That's a big number!")
+        print("That's a big number!")
     elif(my_number > 90):
         print("Almost there!")
     else:
